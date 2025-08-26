@@ -1,0 +1,14 @@
+backend/api/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/api/migrations/__pycache__
+backend/api/models/__pycache__
+backend/api/serializers/__pycache__
+backend/api/urls/__pycache__
+backend/api/views/__pycache__
+backend/backend/__pycache__
+env/
+backend/env
+backend/api/tests/__pycache__
+backend/api/management/commands/__pycache__
